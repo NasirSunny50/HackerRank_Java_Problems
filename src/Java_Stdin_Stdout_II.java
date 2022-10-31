@@ -1,3 +1,14 @@
+//Sample Input
+//
+//        42
+//        3.1415
+//        Welcome to HackerRank's Java tutorials!
+//        Sample Output
+//
+//        String: Welcome to HackerRank's Java tutorials!
+//        Double: 3.1415
+//        Int: 42
+
 import java.util.Scanner;
 
 public class Java_Stdin_Stdout_II {
